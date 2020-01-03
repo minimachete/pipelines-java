@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/maurot0854/Test%20CD%20Pipelines/_apis/build/status/minimachete.pipelines-java?branchName=master)](https://dev.azure.com/maurot0854/Test%20CD%20Pipelines/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
